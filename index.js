@@ -83,3 +83,19 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log('Running geniours-Car-server', port);
 })
+
+//install heroku software
+
+//step every project
+// git init
+//.gitignore
+//push everything to git
+//login commad
+//heroku crate 
+//command :git push heroku
+
+// for update 
+// 1. save everything cheakking locally 
+//git add ,git cimmit-"",git push
+//git push heroku main
+
